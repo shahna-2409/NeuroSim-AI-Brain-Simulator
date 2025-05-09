@@ -121,6 +121,13 @@ python app.py
 
 ---
 
+## 📄 Project Report
+
+You can view the full detailed report here:  
+📘 [Download Thesis Report (PDF)](Thesis_Report/x22235094-FINAL-THESIS-REPORT.pdf)
+
+---
+
 ## 👩‍💻 Author
 
 **Shahna Shahul Hameed**  
