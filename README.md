@@ -26,7 +26,7 @@ This repository contains the full source code, assets, and web application files
 AI_Brain_Simulation/
 ├── app.py                         # Flask web app launcher
 ├── predict.py                     # Prediction logic using AI_Simulation.h5
-├── AI_Simulation.h5               # Pre-trained CNN model (linked via Drive)
+├── AI_Simulation.h5               # Pre-trained CNN model
 ├── AccVal_acc.png                 # Training accuracy curve
 ├── LossVal_loss.png               # Training loss curve
 │
@@ -90,7 +90,6 @@ The app allows a user to upload an image (e.g., MRI slice or drawing) and receiv
 
 1. Clone the repository
 2. Place the trained model `AI_Simulation.h5` in the root directory  
-   *(Download from Google Drive link below)*
 3. Install requirements:
 ```bash
 pip install flask keras tensorflow numpy opencv-python
@@ -101,17 +100,6 @@ python app.py
 ```
 5. Visit `http://127.0.0.1:5000/` in your browser
 
----
-
-## 📁 External Resources (Model & Data)
-
-Due to GitHub’s 100MB file limit, the following files are hosted externally on Google Drive:
-
-📦 [Download Trained Model and Input Samples](https://drive.google.com/your-drive-link-here)
-
-Place into:
-- `AI_Simulation.h5` → project root
-- Sample data folders → `/uploads/` and `/attachments/`
 
 ---
 
