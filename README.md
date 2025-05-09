@@ -126,7 +126,7 @@ python app.py
 **Shahna Shahul Hameed**  
 MSc in Artificial Intelligence  
 National College of Ireland  
-📧 x22235094@student.ncirl.ie
+📧 shahna.s.hameed24@gmail.com
 
 ---
 
