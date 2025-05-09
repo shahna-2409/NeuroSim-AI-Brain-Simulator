@@ -81,14 +81,6 @@ Each image was resized to **224x224**, normalized, and augmented to improve gene
 
 ---
 
-## 📈 Visuals
-
-**Training Performance Curves:**
-
-![Accuracy](AccVal_acc.png)  
-![Loss](LossVal_loss.png)
-
----
 
 ## 🌐 Web Application
 
