@@ -125,8 +125,9 @@ python app.py
 
 **Shahna Shahul Hameed**  
 MSc in Artificial Intelligence  
-National College of Ireland  
+Dublin, Ireland 
 📧 shahna.s.hameed24@gmail.com
+🖇️ https://www.linkedin.com/in/shahna-shahul-hameed/
 
 ---
 
